@@ -133,14 +133,14 @@ The system combines:
 
 | Model          | Accuracy |
 |----------------|----------|
-| SVM            | 83%      |
-| Random Forest  | 72%      |
-| XGBoost        | 84%      |
-| Ensemble       | Best overall |
+| SVM            | 86%      |
+| Random Forest  | 82%      |
+| XGBoost        | 81%      |
+| Ensemble       | 85%      |
 
 ---
 
-## ⚠️ Challenges & Solutions
+## Challenges & Solutions
 
 ### Class Imbalance
 - Used class weights (SVM)
