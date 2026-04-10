@@ -32,7 +32,6 @@ The system combines:
 - Positive: ~70%
 - Negative: ~20%
 - Neutral: ~8%
-  <img width="400" height="200" alt="Graph" src="https://github.com/user-attachments/assets/b5f6c0b8-2a17-4fc3-bf61-df375e2258de" />
 
 ## ⚙️ System Architecture
 
@@ -114,12 +113,12 @@ The system combines:
 - Handles high-dimensional data
 - Used with class balancing
   
-  /Users/anushaa/Desktop/Screenshot 2026-03-28 at 10.31.00 PM.png
+
 
 ### 2. Random Forest
 - Ensemble of decision trees
 - Good interpretability
-/Users/anushaa/Desktop/Screenshot 2026-03-28 at 6.19.23 PM.png
+
 ### 3. XGBoost
 - Gradient boosting algorithm
 - Handles imbalance effectively
