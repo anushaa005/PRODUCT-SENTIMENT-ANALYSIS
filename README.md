@@ -18,7 +18,7 @@ The system combines:
 - **Source:** Amazon Reviews Dataset (McAuley Lab, 2023)
 - **Category:** All_Beauty
 - **Size:** ~701K reviews
-  <img width="350" height="350" alt="Graph" src="https://github.com/user-attachments/assets/b5f6c0b8-2a17-4fc3-bf61-df375e2258de" />
+  <img width="400" height="200" alt="Graph" src="https://github.com/user-attachments/assets/b5f6c0b8-2a17-4fc3-bf61-df375e2258de" />
 
 ### Features:
 - `rating`
